@@ -1,4 +1,4 @@
-### Hi there 👋
+심심할때 끄적이는 노션 (https://kamilereon.notion.site/kamilereon/0a4269fdb2d64cb69d1e262ca5d96c19)
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=windopper&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/windopper)
 
