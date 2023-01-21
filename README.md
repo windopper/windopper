@@ -1,4 +1,4 @@
-심심할때 끄적이는 노션 (https://kamilereon.notion.site/kamilereon/0a4269fdb2d64cb69d1e262ca5d96c19)
+심심할때 끄적이는 노션 (https://www.notion.so/kamilereon/af9c382eae1b49c78ade1f29957989e8?v=300c1dd3ef934aadb04fa1fdcd4cef5e)
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=windopper&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/windopper)
 
