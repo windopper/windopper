@@ -2,6 +2,9 @@
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=windopper&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/windopper)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilack)](https://solved.ac/lilack)
+
 <!--
 **windopper/windopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
