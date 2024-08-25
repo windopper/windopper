@@ -26,9 +26,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilack)](https://solved.ac/lilack)
 
-
-[![windopper's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=windopper&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/windopper)
-
+[![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8)](https://wakatime.com/@windopper)
 </div>
 
 
