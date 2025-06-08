@@ -6,14 +6,18 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
 <h1>⚙️ Stats</h1>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilack)](https://solved.ac/lilack)
 
-[![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8)](https://wakatime.com/@windopper)
+[![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8&layout=compact)](https://wakatime.com/@windopper)
 </div>
 
 
