@@ -30,10 +30,10 @@
 <br />
 
 
-### 🚀 Current Project
+### 🚀 Toy Project
+블로그 - [kamilereon](https://kamilereon.net/)
+
 AI 아티클/정보 게시 서비스 - [Takeoff.](https://ai-takeoff.dev/)
-
-
 
 ### Algorithm Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilack)](https://solved.ac/lilack)
