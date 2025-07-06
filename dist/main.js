@@ -5,20 +5,20 @@ import Takeoff from "./takeoff.js";
 async function main() {
   await generateSvg(/*#__PURE__*/React.createElement(Title, {
     darkMode: true
-  }, "\u2728 \uD1A0\uC774 \uD504\uB85C\uC81D\uD2B8"), "darkToyProject");
+  }, "\u2728 Toy Project"), "darkToyProject");
   await generateSvg(/*#__PURE__*/React.createElement(Title, {
     darkMode: true
-  }, "\u26A1 \uC120\uD638 \uAE30\uC220"), "darkFavoriteTech");
+  }, "\u26A1 Preferred Tech"), "darkFavoriteTech");
   await generateSvg(/*#__PURE__*/React.createElement(Title, {
     darkMode: true
-  }, "\uD83D\uDCBB \uCF54\uB529 \uD65C\uB3D9"), "darkCodingActivity");
+  }, "\uD83D\uDCBB Coding Activity"), "darkCodingActivity");
   await generateSvg(/*#__PURE__*/React.createElement(Title, {
     darkMode: true
-  }, "\uD83D\uDCA1 \uC54C\uACE0\uB9AC\uC998 \uBB38\uC81C \uD480\uC774"), "darkAlgorithmProblemSolving");
-  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\u2728 \uD1A0\uC774 \uD504\uB85C\uC81D\uD2B8"), "toyProject");
-  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\u26A1 \uC120\uD638 \uAE30\uC220"), "favoriteTech");
-  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\uD83D\uDCBB \uCF54\uB529 \uD65C\uB3D9"), "codingActivity");
-  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\uD83D\uDCA1 \uC54C\uACE0\uB9AC\uC998 \uBB38\uC81C \uD480\uC774"), "algorithmProblemSolving");
+  }, "\uD83D\uDCA1 Algorithm Problem Solving"), "darkAlgorithmProblemSolving");
+  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\u2728 Toy Project"), "toyProject");
+  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\u26A1 Preferred Tech"), "favoriteTech");
+  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\uD83D\uDCBB Coding Activity"), "codingActivity");
+  await generateSvg(/*#__PURE__*/React.createElement(Title, null, "\uD83D\uDCA1 Algorithm Problem Solving"), "algorithmProblemSolving");
   await generateSvg(/*#__PURE__*/React.createElement(Kamilereon, null), "kamilereon", {
     width: 600,
     height: 60

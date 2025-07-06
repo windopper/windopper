@@ -4,19 +4,19 @@ import Kamilereon from "./kamilereon";
 import Takeoff from "./takeoff";
 
 async function main() {
-  await generateSvg(<Title darkMode>✨ 토이 프로젝트</Title>, "darkToyProject");
+  await generateSvg(<Title darkMode>✨ Toy Project</Title>, "darkToyProject");
 
-  await generateSvg(<Title darkMode>⚡ 선호 기술</Title>, "darkFavoriteTech");
+  await generateSvg(<Title darkMode>⚡ Preferred Tech</Title>, "darkFavoriteTech");
 
-  await generateSvg(<Title darkMode>💻 코딩 활동</Title>, "darkCodingActivity");
+  await generateSvg(<Title darkMode>💻 Coding Activity</Title>, "darkCodingActivity");
 
-  await generateSvg(<Title darkMode>💡 알고리즘 문제 풀이</Title>, "darkAlgorithmProblemSolving");
+  await generateSvg(<Title darkMode>💡 Algorithm Problem Solving</Title>, "darkAlgorithmProblemSolving");
 
-  await generateSvg(<Title>✨ 토이 프로젝트</Title>, "toyProject");
-  await generateSvg(<Title>⚡ 선호 기술</Title>, "favoriteTech");
-  await generateSvg(<Title>💻 코딩 활동</Title>, "codingActivity");
+  await generateSvg(<Title>✨ Toy Project</Title>, "toyProject");
+  await generateSvg(<Title>⚡ Preferred Tech</Title>, "favoriteTech");
+  await generateSvg(<Title>💻 Coding Activity</Title>, "codingActivity");
   await generateSvg(
-    <Title>💡 알고리즘 문제 풀이</Title>,
+    <Title>💡 Algorithm Problem Solving</Title>,
     "algorithmProblemSolving"
   );
 
