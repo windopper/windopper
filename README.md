@@ -42,18 +42,14 @@
 
 
 <div style="display: flex; flex-direction: column; gap: 5px; position: relative;">
-<!-- <div style="display: flex; flex-direction: row; align-items: center; gap: 5px;"> -->
 
-<img src="./resources/kamilereon.svg" />
-
-
-<img src="./resources/takeoff.svg" />
+[![kamilereon.net으로 이동](./resources/kamilereon.svg)](https://kamilereon.net/)
+[![ai-takeoff.dev로 이동](./resources/takeoff.svg)](https://ai-takeoff.dev/)
 
 </div>
 
 <br />
 
-<!-- ### Algorithm Problem Solving -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/darkAlgorithmProblemSolving.svg">
   <img src="./resources/algorithmProblemSolving.svg" />
@@ -61,7 +57,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilack)](https://solved.ac/lilack)
 
-<!-- ### Coding Activity -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/darkCodingActivity.svg">
   <img src="./resources/codingActivity.svg" />
