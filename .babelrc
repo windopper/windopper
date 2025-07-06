@@ -1,0 +1,6 @@
+{
+  "presets": ["@babel/preset-react"],
+  "plugins": [
+    ["babel-plugin-add-import-extension", { "extension": "js" }] // will add jsx extension
+  ]
+}
