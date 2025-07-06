@@ -3,7 +3,11 @@
 <img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/>
 
 <br />
-<img src="./resources/favoriteTech.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/darkFavoriteTech.svg">
+  <img src="./resources/favoriteTech.svg" />
+</picture>
 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br/>
@@ -31,34 +35,37 @@
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
 <br />
 
-<img src="./resources/toyProject.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/darkToyProject.svg">
+  <img src="./resources/toyProject.svg" />
+</picture>
+
 
 <div style="display: flex; flex-direction: column; gap: 5px; position: relative;">
 <!-- <div style="display: flex; flex-direction: row; align-items: center; gap: 5px;"> -->
 
 <img src="./resources/kamilereon.svg" />
 
-<!-- <img src="./weblog.png" width="35px" />
-<a href="https://kamilereon.net/" target="_blank">블로그 - kamilereon</a>
-</div> -->
 
 <img src="./resources/takeoff.svg" />
 
-<!-- <div style="display: flex; flex-direction: row; align-items: center; gap: 5px;">
-<img src="./takeoff.png" width="35px" />
-<a href="https://ai-takeoff.dev/" target="_blank">AI 아티클/정보 게시 서비스 - Takeoff.</a>
-</div> -->
 </div>
 
 <br />
 
 <!-- ### Algorithm Problem Solving -->
-<img src="./resources/algorithmProblemSolving.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/darkAlgorithmProblemSolving.svg">
+  <img src="./resources/algorithmProblemSolving.svg" />
+</picture>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lilack)](https://solved.ac/lilack)
 
 <!-- ### Coding Activity -->
-<img src="./resources/codingActivity.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/darkCodingActivity.svg">
+  <img src="./resources/codingActivity.svg" />
+</picture>
 
 [![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8&layout=compact)](https://wakatime.com/@windopper)
 
