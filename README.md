@@ -34,6 +34,8 @@
 <br />
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
 <br />
+<img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/darkToyProject.svg">
