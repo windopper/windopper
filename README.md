@@ -63,4 +63,3 @@
 </picture>
 
 [![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8&layout=compact)](https://wakatime.com/@windopper)
-

@@ -3,6 +3,7 @@ import { generateSvg } from "./render.js";
 import Kamilereon from "./kamilereon.js";
 import Takeoff from "./takeoff.js";
 async function main() {
+  await generateSvg(/*#__PURE__*/React.createElement("div", null, "\u2728 \uD14C\uC2A4\uD2B8\uC785\uB2C8\uB2E4"), "test");
   await generateSvg(/*#__PURE__*/React.createElement(Title, {
     darkMode: true
   }, "\u2728 Toy Project"), "darkToyProject");
