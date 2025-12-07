@@ -1,14 +1,22 @@
 
 
-<img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/>
+<!-- <img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/> -->
 
-<br />
+<!-- <br /> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/darkFavoriteTech.svg">
   <img src="./resources/favoriteTech.svg" />
-</picture>
+</picture> -->
 
+Next.js, UnrealEngine
+
+[solved.ac Diamond V | @lilack](https://solved.ac/lilack)
+
+> [@Weblog](https://kamilereon.net/) Dev Blog
+> [@Takeoff](https://ai-takeoff.dev/) AI Issue Tracker Web App
+
+<!-- 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -31,9 +39,9 @@
 </picture>
 
 
-<div style="display: flex; flex-direction: column; gap: 5px; position: relative;">
+<div style="display: flex; flex-direction: column; gap: 5px; position: relative;"> -->
 
-[![kamilereon.net으로 이동](./resources/kamilereon.svg)](https://kamilereon.net/)
+<!-- [![kamilereon.net으로 이동](./resources/kamilereon.svg)](https://kamilereon.net/)
 [![ai-takeoff.dev로 이동](./resources/takeoff.svg)](https://ai-takeoff.dev/)
 
 </div>
@@ -50,6 +58,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/darkCodingActivity.svg">
   <img src="./resources/codingActivity.svg" />
-</picture>
+</picture> -->
 
-[![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8&layout=compact)](https://wakatime.com/@windopper)
+<!-- [![windopper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d8d2d-9767-40a2-bdc2-70d07495d8a8&layout=compact)](https://wakatime.com/@windopper) -->
