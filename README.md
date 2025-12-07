@@ -13,7 +13,7 @@ Next.js, UnrealEngine
 
 [solved.ac Diamond V | @lilack](https://solved.ac/lilack)
 
-> [@Weblog](https://kamilereon.net/) Dev Blog
+> [@Weblog](https://kamilereon.net/) Dev Blog <br/>
 > [@Takeoff](https://ai-takeoff.dev/) AI Issue Tracker Web App
 
 <!-- 
